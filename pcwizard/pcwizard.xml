@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.3.6" type="plugin" method="upgrade" group="user">
+	<name>pcwizard</name>
+	<author>Rama</author>
+	<creationDate>December,2014</creationDate>
+	<copyright>Copyright (C) 2014 - All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>ramakrishna.nyros@gmail.com</authorEmail>
+	<version>3.3.6</version>
+	<description>This is used to delete the user profile</description>
+	<files>
+		<filename plugin="pcwizard">pcwizard.php</filename>
+		<filename>index.html</filename>
+	</files>
+</extension>
