@@ -1,5 +1,3 @@
-# Joomla_Profile_Completion_Wizard
-
 ###Installation & Configuration process:
 
 1. In joomla administrator go to extensions manager, then upload and install this package.
