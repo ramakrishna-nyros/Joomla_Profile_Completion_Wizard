@@ -1,6 +1,6 @@
 # Joomla_Profile_Completion_Wizard
 
-###Install & Configure process:
+###Installation & Configuration process:
 
 1. In joomla administrator go to extensions manager, then upload and install this package.
 2. Create new menu item in main menu with pcwizard->profile view and select access for registered users only.
